@@ -6,7 +6,7 @@
  *
  * Description: Header file for the ARM Cortex M4 NVIC driver
  *
- * Author: Mohamed Tarek (Edges For Training)
+ * Author: Muhamed Amr
  *
  *******************************************************************************/
 
@@ -46,7 +46,6 @@
 #define MEM_FAULT_ENABLE_MASK                0x00010000
 #define BUS_FAULT_ENABLE_MASK                0x00020000
 #define USAGE_FAULT_ENABLE_MASK              0x00040000
-#define DEBUG_MONITOR_ENABLE_MASK            0x00010000
 
 
 
